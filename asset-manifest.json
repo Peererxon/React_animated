@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/React_animated/static/css/main.4d1e4c0a.chunk.css",
-    "main.js": "/React_animated/static/js/main.819512fa.chunk.js",
-    "main.js.map": "/React_animated/static/js/main.819512fa.chunk.js.map",
-    "runtime-main.js": "/React_animated/static/js/runtime-main.cb2351d5.js",
-    "runtime-main.js.map": "/React_animated/static/js/runtime-main.cb2351d5.js.map",
-    "static/js/2.b1cef961.chunk.js": "/React_animated/static/js/2.b1cef961.chunk.js",
-    "static/js/2.b1cef961.chunk.js.map": "/React_animated/static/js/2.b1cef961.chunk.js.map",
-    "index.html": "/React_animated/index.html",
-    "precache-manifest.bf6ee74c9bd35e60188d7303a0dbe341.js": "/React_animated/precache-manifest.bf6ee74c9bd35e60188d7303a0dbe341.js",
-    "service-worker.js": "/React_animated/service-worker.js",
-    "static/css/main.4d1e4c0a.chunk.css.map": "/React_animated/static/css/main.4d1e4c0a.chunk.css.map",
-    "static/js/2.b1cef961.chunk.js.LICENSE.txt": "/React_animated/static/js/2.b1cef961.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/React_animated/static/media/team-platzi-azul.70297162.jpg",
-    "static/media/animations.css": "/React_animated/static/media/corazon.45598562.png",
-    "static/media/easter-a.jpg": "/React_animated/static/media/easter-a.3fc278ed.jpg",
-    "static/media/easterB.jpeg": "/React_animated/static/media/easterB.573c5797.jpeg",
-    "static/media/invie-acustica.png": "/React_animated/static/media/invie-acustica.25c6f861.png",
-    "static/media/invie-classic.png": "/React_animated/static/media/invie-classic.e039fff9.png"
+    "main.css": "/react_animated/static/css/main.ee60034a.chunk.css",
+    "main.js": "/react_animated/static/js/main.b1249933.chunk.js",
+    "main.js.map": "/react_animated/static/js/main.b1249933.chunk.js.map",
+    "runtime-main.js": "/react_animated/static/js/runtime-main.e04a93f9.js",
+    "runtime-main.js.map": "/react_animated/static/js/runtime-main.e04a93f9.js.map",
+    "static/js/2.b1cef961.chunk.js": "/react_animated/static/js/2.b1cef961.chunk.js",
+    "static/js/2.b1cef961.chunk.js.map": "/react_animated/static/js/2.b1cef961.chunk.js.map",
+    "index.html": "/react_animated/index.html",
+    "precache-manifest.fcf1cfb2f768c2a79eb2a7c3768032f6.js": "/react_animated/precache-manifest.fcf1cfb2f768c2a79eb2a7c3768032f6.js",
+    "service-worker.js": "/react_animated/service-worker.js",
+    "static/css/main.ee60034a.chunk.css.map": "/react_animated/static/css/main.ee60034a.chunk.css.map",
+    "static/js/2.b1cef961.chunk.js.LICENSE.txt": "/react_animated/static/js/2.b1cef961.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react_animated/static/media/team-platzi-azul.70297162.jpg",
+    "static/media/animations.css": "/react_animated/static/media/corazon.45598562.png",
+    "static/media/easter-a.jpg": "/react_animated/static/media/easter-a.3fc278ed.jpg",
+    "static/media/easterB.jpeg": "/react_animated/static/media/easterB.573c5797.jpeg",
+    "static/media/invie-acustica.png": "/react_animated/static/media/invie-acustica.25c6f861.png",
+    "static/media/invie-classic.png": "/react_animated/static/media/invie-classic.e039fff9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb2351d5.js",
+    "static/js/runtime-main.e04a93f9.js",
     "static/js/2.b1cef961.chunk.js",
-    "static/css/main.4d1e4c0a.chunk.css",
-    "static/js/main.819512fa.chunk.js"
+    "static/css/main.ee60034a.chunk.css",
+    "static/js/main.b1249933.chunk.js"
   ]
 }
