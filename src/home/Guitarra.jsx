@@ -10,7 +10,7 @@ function Guitarra({guitarras}){
       <div className="video-demo-contenedor">
         <div className="video-demo">
           <div className="video-responsive-contenedor">
-            <iframe className="video-responsive-src" width="560" height="315" src="https://www.youtube.com/embed/R1dW8M4EqYY" frameBorder="0" allowFullScreen></iframe>
+            <iframe className="video-responsive-src" title="video"  width="560" height="315" src="https://www.youtube.com/embed/R1dW8M4EqYY" frameBorder="0" allowFullScreen></iframe>
           </div>
         </div>
       </div>

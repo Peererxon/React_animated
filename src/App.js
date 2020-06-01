@@ -65,8 +65,7 @@ function App() {
 
   } */
 
-  return (
-/*     <div className="App">
+  /*     <div className="App">
       <header className="App-header">
         <CSSTransitionGroup
           transitionName="fade"
@@ -90,6 +89,7 @@ function App() {
         </a>
       </header>
     </div> */
+  return (
 
     <div className = "App">
       <Portada/>
