@@ -91,12 +91,12 @@ const easter = {
   guitarras: [
     {
       src:  easterA,
-      alt:  'Optimus mamadisimo',
-      name: 'Optimus mamado',
+      alt:  'Optimus',
+      name: 'Optimus',
       features: [
-        'Te parte la madre',
+        'Golpe fuerte',
         'Acero autobot',
-        'Incluye espada chingona',
+        'Incluye espada invie',
       ]
     },
     {
