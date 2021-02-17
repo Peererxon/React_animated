@@ -112,7 +112,7 @@ const easter = {
   ]
 }
 
-
+//libreria para escuchar el teclado
 cheeet('i n v i e', ()=> {
   store.dispatch({
     type: 'UPDATE_PROPS',
